@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="calc_text">12345</string>
+    <string name="_9">9</string>
+    <string name="_7">7</string>
+    <string name="Divide">/</string>
+    <string name="plus">+</string>
+    <string name="clr">CLR</string>
+    <string name="zero">0</string>
+    <string name="Minus">-</string>
+    <string name="EqualsTo">=</string>
+</resources>
